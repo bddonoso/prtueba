@@ -1,0 +1,27 @@
+@import 'externa.css';
+h1 {
+ color: blck;
+ background-color: #00FFFF;
+
+ text-align: center;
+}
+
+p {
+ color: black;
+}
+
+
+h1{
+        color: blue
+        background-color: red;
+
+
+
+      }
+          p{
+          color: blue;
+        }
+
+        p, li {
+  text-decoration: underline;
+}
